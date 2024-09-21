@@ -103,6 +103,7 @@
   padding-top: 10px;
   padding-bottom: 0px;
   background-color: #fff;
+  z-index: 1;
 }
 
 .body {
